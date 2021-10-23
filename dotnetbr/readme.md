@@ -22,3 +22,12 @@ Não diferenciamos nenhuma condição ou questão pessoal.
 Aqui não é espaço para nenhum tipo de mi-mi-mi ou militância.
 
 Foi importunado(a), repasse o máximo de detalhes que puder para um admin.
+
+## SPAM
+
+Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de restrição de posts são realizadas pelo bot. Se você não é um spammer, e o bot pegar sua publicação:
+
+1) Você não foi denunciado. Somente teu post foi apagado, mas isso não impacta sua conta.
+2) Tem alguma coisa no seu texto, possivelmente seu nome, um link, uma palavra ou frase que está sendo bloqueada.
+3) O bot passa um OCR em 100% das imagens publicadas no grupo.
+4) A maior parte dos bloqueios está relacionado a SPAM de carteiras de criptomoeda, isso inclui encurtadores de URL etc.
