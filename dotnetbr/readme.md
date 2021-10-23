@@ -8,7 +8,7 @@ Seja com ajuda técnica propriamente dita, ou com a publicação e divulgação 
 
 ## O que não deve ser feito no grupo
 
-* Publicação de Vagas
+* Publicação de Vagas ( use o [@devstream_vagas](https://t.me/devstream_vagas)  )
 * Anúncios e/ou Divulgação de outros grupos
 * Divulgação de conteúdo pago, quando o membro não for um membro ativo no grupo
 * Publicação de oportunidades de estágio, sociedade, negócios etc.
