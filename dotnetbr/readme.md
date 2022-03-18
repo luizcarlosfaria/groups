@@ -14,6 +14,7 @@ Seja com ajuda técnica propriamente dita, ou com a publicação e divulgação 
 * Publicação de oportunidades de estágio, sociedade, negócios etc.
 * Haterismo e ataques a outras plataformas
 * Política e/ou Religião e/ou Futebol
+* Conteúdo ilegal ou que leve à ilegalidade
 
 ## Respeito não é negociável
 
