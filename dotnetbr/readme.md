@@ -45,3 +45,18 @@ Primeiro você deve servir ao grupo, ajudar o grupo.
 Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando ruim sua divulgação.
 
 Se você não ajuda o grupo (não ajuda ninguém) suas publicações, posts e divulgações não são bem vistos, não são bem vindos.
+
+## Mensagem no privado
+
+Alguém te ajudou no grupo? Continue a conversa no grupo. 
+
+A maior parte do aprendizado acontece com as pessoas assistindo questões sendo resolvidas no grupo.
+
+Não pense em continuar a conversa no privado. Isso é intrusivo e rude.
+
+Nos reunimos em grupo para criarmos um ambiente onde ao ajudar 1 ajudamos uma massa, vários outros devs que não estão perguntando estão se beneficiando da resposta para a sua pergunta. 
+
+Se você não pode expor seu problema para o grupo, talvez não devesse usar o grupo para esse problema.
+
+
+
