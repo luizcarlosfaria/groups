@@ -1,3 +1,4 @@
+
 # dotnetbr
 
 ## Objetivo do grupo
@@ -35,8 +36,8 @@ Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de re
 
 ## A principal regra dos grupos
 
-Primeiro você serve ao grupo, para que depois o grupo te sirva!
+> Primeiro você serve ao grupo, para que depois o grupo te sirva!
 
-Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo ou qualquer tipo de autopromoção, tenha isso em mente. Primeiro você deve servir ao grupo, ajudar o grupo. 
-
+Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo,  ou qualquer tipo de autopromoção, tenha isso em mente:
+Primeiro você deve servir ao grupo, ajudar o grupo. 
 Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando ruim sua divulgação.
