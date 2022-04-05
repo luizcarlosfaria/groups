@@ -32,3 +32,11 @@ Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de re
 2) Tem alguma coisa no seu texto, possivelmente seu nome, um link, uma palavra ou frase que está sendo bloqueada.
 3) O bot passa um OCR em 100% das imagens publicadas no grupo.
 4) A maior parte dos bloqueios está relacionado a SPAM de carteiras de criptomoeda, isso inclui encurtadores de URL etc.
+
+## A principal regra dos grupos
+
+Primeiro você serve ao grupo, para que depois o grupo te sirva!
+
+Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo ou qualquer tipo de autopromoção, tenha isso em mente. Primeiro você deve servir ao grupo, ajudar o grupo. 
+
+Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando ruim sua divulgação.
