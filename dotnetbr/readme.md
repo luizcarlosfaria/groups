@@ -54,11 +54,11 @@ A maior parte do aprendizado acontece com as pessoas assistindo questões sendo 
 
 Não pense em continuar a conversa no privado. Isso é intrusivo e rude.
 
-Nos reunimos em grupo para criarmos um ambiente onde ao ajudar 1 ajudamos uma massa, vários outros devs que não estão perguntando estão se beneficiando da resposta para a sua pergunta. 
+Nos reunimos em grupo para criarmos um ambiente onde ao ajudar um, ajudamos vários outros devs. Muitos devs que não estão perguntando estão se beneficiando da resposta da sua pergunta. 
 
-Se você não pode expor seu problema para o grupo, talvez não devesse usar o grupo para esse problema.
+*Se você não pode expor seu problema para o grupo, talvez não devesse usar o grupo para esse problema.*
 
-Esse tipo de abordagem pode ser reportada aos administradores do grupo e provavelmente você será banido do grupo por isso.
+o importuno no privado pode ser reportada aos administradores do grupo e provavelmente você será banido do grupo por isso.
 
 ## 7 - Como reportar qualquer problema
 
