@@ -43,3 +43,5 @@ Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo,
 Primeiro você deve servir ao grupo, ajudar o grupo. 
 
 Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando ruim sua divulgação.
+
+Se você não ajuda o grupo (não ajuda ninguém) suas publicações, posts e divulgações não são bem vistos, não são bem vindos.
