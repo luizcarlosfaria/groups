@@ -44,7 +44,15 @@ Primeiro você deve servir ao grupo, ajudar o grupo.
 
 Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando ruim sua divulgação.
 
-Se você não ajuda o grupo (não ajuda ninguém) suas publicações, posts e divulgações não são bem vistos, não são bem vindos.
+**Se você não ajuda o grupo (não ajuda ninguém). Então suas publicações, posts e divulgações não são bem vistos e não são bem vindos.**
+
+A qualidade do grupo é medida pela fórmula **(qualidade = ajuda / divulgação)**.
+
+Quanto maior a interação entre as pessoas, mais divulgação pode acontecer, quanto menor a interação, mais restrito precisa ser.
+
+A divulgação também traz bons membros ao grupo, aqueles que estão no papel de influenciar, faz com que eles ajudem na condução do grupo e na ajuda daqueles que precisam de ajuda. 
+
+Então divulgação sempre será um mal, necessário.
 
 ## 6 - Posso enviar mensagem privada?
 
