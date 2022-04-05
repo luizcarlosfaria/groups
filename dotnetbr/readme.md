@@ -54,6 +54,8 @@ A divulgação também traz bons membros ao grupo, aqueles que estão no papel d
 
 Então divulgação sempre será um mal, necessário.
 
+Se você ajuda o grupo, se você ajuda a responder as dúvidas que outros devs postam no grupo, sua publicação é bem vinda e conectará aqueles que te admiram com o seu conteúdo.
+
 ## 6 - Posso enviar mensagem privada?
 
 Alguém te ajudou no grupo? Continue a conversa no grupo. 
