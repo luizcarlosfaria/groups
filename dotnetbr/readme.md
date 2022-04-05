@@ -56,6 +56,14 @@ Então divulgação sempre será um mal, necessário.
 
 Se você ajuda o grupo, se você ajuda a responder as dúvidas que outros devs postam no grupo, sua publicação é bem vinda e conectará aqueles que te admiram com o seu conteúdo.
 
+### 5.1 O que é considerado autopromoção?
+
+Tudo aquilo que você e seus próximos fazem e você divulga.
+
+### 5.2 O que não é considerado autopromoção?
+
+Conteúdo de anônimos e não amigos/conhecidos, mesmo que sejam nomes de peso da comunidade nacional ou internacional.
+
 ## 6 - Posso enviar mensagem privada?
 
 Alguém te ajudou no grupo? Continue a conversa no grupo. 
