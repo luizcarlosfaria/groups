@@ -58,5 +58,5 @@ Nos reunimos em grupo para criarmos um ambiente onde ao ajudar 1 ajudamos uma ma
 
 Se você não pode expor seu problema para o grupo, talvez não devesse usar o grupo para esse problema.
 
-
+Esse tipo de abordagem pode ser reportada aos administradores do grupo e provavelmente você será banido do grupo por isso.
 
