@@ -40,15 +40,18 @@ Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de re
 
 Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo,  ou qualquer tipo de autopromoção, tenha isso em mente:
 
-Primeiro você deve servir ao grupo, ajudar o grupo. 
+Primeiro você deve servir ao grupo, ajudar o grupo. E só existem 3 formas de ajudar o grupo:
+* Fazendo perguntas pertinentes ao assunto do grupo
+* Respondendo essas perguntas
+* Trazendo mais membros para o grupo
 
-Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando ruim sua divulgação.
+Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando sua divulgação nociva.
 
 **Se você não ajuda o grupo (não ajuda ninguém). Então suas publicações, posts e divulgações não são bem vistos e não são bem vindos.**
 
 A qualidade do grupo é medida pela fórmula **(qualidade = ajuda / divulgação)**.
 
-Quanto maior a interação entre as pessoas, mais divulgação pode acontecer, quanto menor a interação, mais restrito precisa ser.
+Quanto maior a interação entre as pessoas, mais divulgação **pode** acontecer, quanto menor a interação, mais restrito **precisa** ser.
 
 A divulgação também traz bons membros ao grupo, aqueles que estão no papel de influenciar, faz com que eles ajudem na condução do grupo e na ajuda daqueles que precisam de ajuda. 
 
