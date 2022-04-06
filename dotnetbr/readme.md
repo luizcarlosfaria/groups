@@ -52,9 +52,9 @@ Quanto maior a interação entre as pessoas, mais divulgação pode acontecer, q
 
 A divulgação também traz bons membros ao grupo, aqueles que estão no papel de influenciar, faz com que eles ajudem na condução do grupo e na ajuda daqueles que precisam de ajuda. 
 
-Então divulgação sempre será um mal, necessário.
+Então divulgação sempre será um mal necessário.
 
-Se você ajuda o grupo, se você ajuda a responder as dúvidas que outros devs postam no grupo, sua publicação é bem vinda e conectará aqueles que te admiram com o seu conteúdo.
+**Se você ajuda o grupo, se você ajuda a responder as dúvidas que outros devs postam no grupo, sua publicação é bem vinda e conectará aqueles que te admiram com o seu conteúdo.**
 
 ### 5.1 O que é considerado autopromoção?
 
