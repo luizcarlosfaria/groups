@@ -65,7 +65,7 @@ Tudo aquilo que você e seus próximos fazem e você divulga.
 
 ### 5.2 O que não é considerado autopromoção?
 
-Conteúdo de anônimos e não amigos/conhecidos, mesmo que sejam nomes de peso da comunidade nacional ou internacional.
+Conteúdo de terceiros, não próximos a você.
 
 ## 6 - Posso enviar mensagem privada?
 
