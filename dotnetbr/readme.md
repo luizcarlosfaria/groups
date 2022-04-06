@@ -79,7 +79,7 @@ Nos reunimos em grupo para criarmos um ambiente onde ao ajudar um, ajudamos vár
 
 *Se você não pode expor seu problema para o grupo, talvez não devesse usar o grupo para esse problema.*
 
-o importuno no privado pode ser reportada aos administradores do grupo e provavelmente você será banido do grupo por isso.
+O importuno no privado pode ser reportada aos administradores do grupo e se reportado você será advertido ou será banido do grupo por isso.
 
 ## 7 - Como reportar qualquer problema
 
