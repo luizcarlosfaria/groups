@@ -5,14 +5,19 @@
 
 Ajudar desenvolvedores .NET, em especial C#, em suas questões técnicas. 
 
-Seja com ajuda técnica propriamente dita, ou com a publicação e divulgação de conteúdo.
+Seja com ajuda técnica propriamente dita, ou com a publicação e divulgação de conteúdo*.
 
 ## 2 - O que não deve ser feito no grupo
 
 * Publicação de Vagas ( use o [@devstream_vagas](https://t.me/devstream_vagas)  )
-* Anúncios e/ou Divulgação de outros grupos
-* Divulgação de conteúdo pago, quando o membro não for um membro ativo no grupo
-* Publicação de oportunidades de estágio, sociedade, negócios etc.
+* Anúncios e divulgações no geral:
+  * Anúncios e/ou Divulgação de outros grupos
+  * Publicação de oportunidades de estágio, sociedade, negócios etc.
+  * Divulgação de conteúdo pago, quando o membro não for um membro ativo no grupo
+* Estimular más práticas ou minimizar boas práticas,
+  * Estimular/Indicar o uso de técnicas ou bibliotecas arcaicas e/ou obsoletas
+  * Responder críticas técnicas com "mas assim funciona"
+  * O objetivo do grupo de ajudar não consegue ser alcançado se firmarmos parados no tempo, ou criando problemas futuros
 * Haterismo e ataques a outras plataformas
 * Política e/ou Religião e/ou Futebol
 * Conteúdo ilegal ou que leve à ilegalidade
@@ -25,6 +30,8 @@ Aqui não é espaço para nenhum tipo de mi-mi-mi ou militância.
 
 Foi importunado(a), repasse o máximo de detalhes que puder para um admin.
 
+Chamar membros do grupo no privado é falta de respeito com a pessoa e com o grupo, veja mais no item 6
+
 ## 4 - SPAM
 
 Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de restrição de posts são realizadas pelo bot. Se você não é um spammer, e o bot pegar sua publicação:
@@ -34,20 +41,21 @@ Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de re
 3) O bot passa um OCR em 100% das imagens publicadas no grupo.
 4) A maior parte dos bloqueios está relacionado a SPAM de carteiras de criptomoeda, isso inclui encurtadores de URL etc.
 
-## 5 - A principal regra dos grupos
+## 5 - Publicação de Cursos e Mentorias
 
 > Primeiro você serve ao grupo, para que depois o grupo te sirva!
 
-Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo,  ou qualquer tipo de autopromoção, tenha isso em mente:
+Assim se você quer usar o grupo para divulgar um curso, uma live, um conteúdo, ou qualquer tipo de autopromoção, tenha isso em mente:
 
 Primeiro você deve servir ao grupo, ajudar o grupo. E só existem 3 formas de ajudar o grupo:
 * Fazendo perguntas pertinentes ao assunto do grupo
 * Respondendo essas perguntas
+* Promovendo maior qualidade técnica dos integrantes
 * Trazendo mais membros para o grupo
 
 Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente não achando sua divulgação nociva.
 
-**Se você não ajuda o grupo (não ajuda ninguém). Então suas publicações, posts e divulgações não são bem vistos e não são bem vindos.**
+**Se você não ajuda ao grupo, não ajuda ninguém. Então suas publicações, posts, e divulgações não são bem vistos e não são bem vindos.**
 
 A qualidade do grupo é medida pela fórmula **(qualidade = ajuda / divulgação)**.
 
