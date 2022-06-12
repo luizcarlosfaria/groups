@@ -41,7 +41,7 @@ Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de re
 3) O bot passa um OCR em 100% das imagens publicadas no grupo.
 4) A maior parte dos bloqueios está relacionado a SPAM de carteiras de criptomoeda, isso inclui encurtadores de URL etc.
 
-## 5 - Publicação de Cursos e Mentorias
+## 5 - Publicação de Material Gratuito, Lives, Cursos, Mentorias etc.
 
 > Primeiro você serve ao grupo, para que depois o grupo te sirva!
 
