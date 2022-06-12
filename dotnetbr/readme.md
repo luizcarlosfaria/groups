@@ -14,9 +14,10 @@ Seja com ajuda técnica propriamente dita, ou com a publicação e divulgação 
   * Anúncios e/ou Divulgação de outros grupos
   * Publicação de oportunidades de estágio, sociedade, negócios etc.
   * Divulgação de conteúdo pago, quando o membro não for um membro ativo no grupo
-* Estimular/Indicar o uso de técnicas ou bibliotecas arcaicas e/ou obsoletas
-  * O objetivo do grupo de ajudar não consegue ser alcançado se ficarmos congelados no tempo
-* Estimular más práticas ou minimizar boas práticas, em especial a frase: "mas funciona"
+* Estimular más práticas ou minimizar boas práticas,
+  * Estimular/Indicar o uso de técnicas ou bibliotecas arcaicas e/ou obsoletas
+  * Responder críticas técnicas com "mas assim funciona"
+  * O objetivo do grupo de ajudar não consegue ser alcançado se firmarmos parados no tempo, ou criando problemas futuros
 * Haterismo e ataques a outras plataformas
 * Política e/ou Religião e/ou Futebol
 * Conteúdo ilegal ou que leve à ilegalidade
