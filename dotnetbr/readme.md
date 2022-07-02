@@ -57,6 +57,8 @@ Depois o grupo te servirá de bom grado, seja com audiência, seja simplesmente 
 
 **Se você não ajuda ao grupo, não ajuda ninguém. Então suas publicações, posts, e divulgações não são bem vistos e não são bem vindos.**
 
+Aliás, posts quase sempre são considerados autopromoção. Leia o tópico [5.1](#51-o-que-é-considerado-autopromoção).
+
 A qualidade do grupo é medida pela fórmula **(qualidade = ajuda / divulgação)**.
 
 Quanto maior a interação entre as pessoas, mais divulgação **pode** acontecer, quanto menor a interação, mais restrito **precisa** ser.
