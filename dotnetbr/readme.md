@@ -77,6 +77,12 @@ Tudo aquilo que você e seus próximos fazem e você divulga.
 
 Conteúdo de terceiros, não próximos a você.
 
+### 5.3 Mas essa é uma visão bem subjetiva, ou não reflete a realidade
+
+Sim, é subjetivo. Mas é perceptível também.
+
+Entendo que seu post possa tem a melhor das intenções. É nobre publicar, mas tudo que está sendo dito nessa página diz respeito ao grupo. É a ótica do grupo, sem pretensão de tentar representar a verdade absoluta.
+
 ## 6 - Posso enviar mensagem privada?
 
 Alguém te ajudou no grupo? Continue a conversa no grupo. 
