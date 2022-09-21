@@ -24,4 +24,4 @@ Qualquer outro tipo de publicação, de recrutador ou candidato, não são bem v
 
 Se não é a divulgação de vaga, não é bem vindo.
 
-## 3 FIM
+## 3 - FIM
