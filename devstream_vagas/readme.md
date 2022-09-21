@@ -12,4 +12,4 @@ O objetivo do grupo é única e exclusivamente a publicação de vagas.
 
 Qualquer outro tipo de publicação, de recrutador ou candidato, não são bem vindas.
 
-## 3
+## 3 FIM
