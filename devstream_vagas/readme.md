@@ -8,9 +8,11 @@ Candidatos buscam por vagas no histórico de mensagens do grupo.
 
 ## 2 - Responsabilidades e Limitações
 
-O objetivo do grupo é única e exclusivamente a publicação de vagas.
+O objetivo do é a divulgação de vagas.
 
-Qualquer outro tipo de publicação, de recrutador ou candidato, não são bem vindas.
+O objetivo do grupo não é bem estar, não é saúde mental, não não há um segundo objetivo.
+
+***Qualquer outro tipo de publicação, de recrutador ou candidato, não é bem vinda.***
 
 ### Que tipo de publicação não é bem vinda?
 
