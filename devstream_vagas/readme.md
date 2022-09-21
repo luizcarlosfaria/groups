@@ -4,7 +4,7 @@
 
 Recrutadores publicam vagas
 
-Candidatos buscam por vagas nas mensagens do grupo.
+Candidatos buscam por vagas no histórico de mensagens do grupo.
 
 ## 2 - Responsabilidades e Limitações
 
