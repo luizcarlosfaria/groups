@@ -103,3 +103,17 @@ Procure um administrador do grupo e envie prints da conversa.
 
 Explique seu ponto de vista e porque você achou um abuso.
 
+## 8 - Dúvidas?
+
+Se você possui alguma dúvida se o conteúdo cabe no grupo, vamos fazer um exercício para simplificar:
+
+Imagine que hipoteticamente:
+
+* Seu perfil tem sua foto real.
+* Seu perfil tem seu nome real.
+* Seu perfil tem seu e-mail.
+* Seu perfil tem seu CPF
+
+E por algum motivo o grupo tem seus pais, que por mais que não interajam, estão lá vendo tudo que você publica.
+
+Se sob essas condições você ainda julga ok publicar sua mensagem, então provavelmente não vai ferir política alguma.
