@@ -20,7 +20,7 @@ Seja com ajuda técnica propriamente dita, ou com a publicação e divulgação 
   * O objetivo do grupo de ajudar não consegue ser alcançado se firmarmos parados no tempo, ou criando problemas futuros
 * Haterismo e ataques a outras plataformas
 * Política e/ou Religião e/ou Futebol
-* Conteúdo ilegal ou que leve à ilegalidade
+* Conteúdo ilegal ou que leve à ilegalidade (incluindo compartilhar, repassar, vender, receber e/ou compartilhar pirataria)
 
 ## 3 - Respeito não é negociável
 
