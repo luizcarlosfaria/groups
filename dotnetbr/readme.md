@@ -34,10 +34,10 @@ Chamar membros do grupo no privado é falta de respeito com a pessoa e com o gru
 
 ## 4 - SPAM
 
-Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de restrição de posts são realizadas pelo bot. Se você não é um spammer, e o bot pegar sua publicação:
+Infelizmente com o avanço do SPAM no telegram, políticas mais agressivas de restrição de posts são realizadas pelo bot. Mas se você não é um spammer, e o bot apagou sua publicação ou te baniu saiba:
 
-1) Você não foi denunciado. Somente teu post foi apagado, mas isso não impacta sua conta.
-2) Tem alguma coisa no seu texto, possivelmente seu nome, um link, uma palavra ou frase que está sendo bloqueada.
+1) Você não foi denunciado (durante o ban é possível denunciar também. Não usamos esse recurso). Somente teu post foi apagado, mas isso não impacta sua conta (a denúncia pode bloquear sua conta).
+2) Tem alguma coisa no seu texto, possivelmente seu nome, um link, uma palavra ou frase que está sendo bloqueada, revise.
 3) O bot passa um OCR em 100% das imagens publicadas no grupo.
 4) A maior parte dos bloqueios está relacionado a SPAM de carteiras de criptomoeda, isso inclui encurtadores de URL etc.
 
